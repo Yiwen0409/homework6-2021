@@ -17,11 +17,11 @@ body{
   }
 
   .nav_item a{
-    color:#50C7C7;
+    color:#0021f5;
   }
   
   .nav_item a:visited{
-    color: #50C7C7;
+    color: #0021f5;
     text-decoration: underline;
     -webkit-text-decoration-style: dotted;
             text-decoration-style: dotted;
